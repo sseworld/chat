@@ -1,0 +1,8 @@
+{
+  "name": "@ssechat/main",
+  "version": "1.0.0",
+  "description": "A real time chat application",
+  "main": "server/index.js",
+  "author": "SSE World",
+  "license": "MIT"
+}
